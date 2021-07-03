@@ -1,1 +1,2 @@
-# classC36-streacturing-befor-coding
+# synchronousBallMovement
+Ball moving synchronously
